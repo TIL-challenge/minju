@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data structure/[자료구조] 1장. 자료구조.md",
+                "file": "data structure/[자료구조] 2장. LinkedList.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data structure/[자료구조] 1장. 자료구조.md",
+                "file": "data structure/[자료구조] 2장. LinkedList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data structure/[자료구조] 1장. 자료구조.md",
+                "file": "data structure/[자료구조] 2장. LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data structure/[자료구조] 1장. 자료구조.md"
+                "file": "data structure/[자료구조] 2장. LinkedList.md"
               }
             }
           },
@@ -157,13 +157,13 @@
   },
   "active": "f0270bb299799b74",
   "lastOpenFiles": [
-    "data structure/[자료구조] 2장. LinkedList.md",
     "data structure/[자료구조] Circular Linked LIst.md",
     "data structure/[자료구조] DoubleLinkedList.md",
+    "data structure/[자료구조] 2장. LinkedList.md",
     "data structure/[자료구조] 1장. 자료구조.md",
+    "data structure/images/image-20240913105212779.png",
     "oop/객체지향의사실과오해/[객사오] 1장. 협력하는 객체들의 세계.md",
     "README.md",
-    "data structure/images/image-20240913105212779.png",
     "data structure/images/image-20241002164626.png",
     "data structure/images/Pasted image 20241002164617.png",
     "data structure/images/Pasted image 20241002164121.png"
