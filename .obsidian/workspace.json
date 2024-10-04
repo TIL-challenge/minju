@@ -21,12 +21,28 @@
             "id": "0c76e08ac32b0ba6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "data structure/[자료구조] Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4c39fac5345f4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data structure/[자료구조] Stack.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e1d6644f881c4a4e",
@@ -92,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data structure/images/image-20240920173359546.png",
+                "file": "data structure/[자료구조] Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data structure/images/image-20240920173359546.png",
+                "file": "data structure/[자료구조] Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data structure/images/image-20240920173359546.png"
+                "file": "data structure/[자료구조] Stack.md"
               }
             }
           },
@@ -172,23 +188,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e24cbc21bb2e7ffb",
+  "active": "f4c39fac5345f4df",
   "lastOpenFiles": [
+    "data structure/images/Pasted image 20241004172114.png",
+    "data structure/images/Pasted image 20241004171222.png",
+    "data structure/images/Pasted image 20241004171249.png",
+    "data structure/images/Pasted image 20241004172434.png",
+    "data structure/images/Pasted image 20241004172657.png",
+    "data structure/[자료구조] Stack.md",
+    "Excalidraw/Drawing 2024-10-04 17.02.32.excalidraw.md",
+    "data structure/[자료구조] DoubleLinkedList.md",
+    "data structure/images/image-20240920173359546.png",
     "나눔손글씨 성실체.ttf",
     "Excalidraw/Drawing 2024-10-02 17.43.30.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 17.44.00.excalidraw.md",
-    "data structure/images/image-20240920173359546.png",
     "Excalidraw",
     "data structure/images/image-20240920173454944.png",
     "data structure/[자료구조] 1장. 자료구조.md",
     "data structure/[자료구조] 2장. LinkedList.md",
     "data structure/[자료구조] Circular Linked LIst.md",
-    "data structure/[자료구조] DoubleLinkedList.md",
     "oop/객체지향의사실과오해/[객사오] 1장. 협력하는 객체들의 세계.md",
     "data structure/images/image-20240913105212779.png",
     "README.md",
     "data structure/images/image-20241002164626.png",
-    "data structure/images/Pasted image 20241002164617.png",
-    "data structure/images/Pasted image 20241002164121.png"
+    "data structure/images/Pasted image 20241002164617.png"
   ]
 }
