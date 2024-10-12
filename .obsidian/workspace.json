@@ -21,14 +21,28 @@
             "id": "0c76e08ac32b0ba6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "data structure/images/image-20240913105212779.png"
+                "file": "data structure/[자료구조] Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cae8a90790618c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data structure/[자료구조] Queue ADT.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data structure/images/image-20240913105212779.png",
+                "file": "data structure/[자료구조] Queue ADT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data structure/images/image-20240913105212779.png",
+                "file": "data structure/[자료구조] Queue ADT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data structure/images/image-20240913105212779.png"
+                "file": "data structure/[자료구조] Queue ADT.md"
               }
             }
           },
@@ -174,65 +188,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "ca71a37972c140e5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "833a63b856dc9486",
-        "type": "window",
-        "children": [
-          {
-            "id": "c8e080a62e049082",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f4c39fac5345f4df",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2024-10-04 17.02.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0c76e08ac32b0ba6",
+  "active": "2cae8a90790618c7",
   "lastOpenFiles": [
     "data structure/images/image-20240920173359546.png",
-    "data structure/images/image-20240920173454944.png",
+    "data structure/[자료구조] Queue.md",
+    "data structure/images/Pasted image 20241008111007.png",
+    "data structure/images/Pasted image 20241008110857.png",
+    "data structure/images/Pasted image 20241008092204.png",
+    "data structure/[자료구조] Queue ADT.md",
+    "data structure/images/스크린샷 2024-10-06 오전 1.43.46.png",
+    "Excalidraw/Drawing 2024-10-05 23.09.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-06 00.05.21.excalidraw.md",
+    "data structure/[자료구조] Stack.md",
+    "Excalidraw",
+    "data structure/[자료구조] DoubleLinkedList.md",
     "data structure/images/Pasted image 20241004172114.png",
+    "data structure/images/Pasted image 20241004171222.png",
+    "data structure/images/Pasted image 20241004171249.png",
     "data structure/images/Pasted image 20241004172434.png",
     "data structure/images/Pasted image 20241004172657.png",
-    "data structure/images/Pasted image 20241008092204.png",
-    "data structure/images/Pasted image 20241008110857.png",
-    "data structure/images/Pasted image 20241008111007.png",
-    "data structure/images/Pasted image 20241008091851.png",
-    "data structure/[자료구조] Queue ADT.md",
-    "data structure/images/Pasted image 20241008110756.png",
-    "data structure/images/Pasted image 20241008110828.png",
-    "data structure/[자료구조] Stack.md",
     "Excalidraw/Drawing 2024-10-04 17.02.32.excalidraw.md",
-    "data structure/[자료구조] Circular Linked LIst.md",
-    "data structure/[자료구조] DoubleLinkedList.md",
-    "data structure/[자료구조] 2장. LinkedList.md",
-    "data structure/[자료구조] 1장. 자료구조.md",
     "나눔손글씨 성실체.ttf",
     "Excalidraw/Drawing 2024-10-02 17.43.30.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 17.44.00.excalidraw.md",
-    "Excalidraw",
+    "data structure/[자료구조] 1장. 자료구조.md",
+    "data structure/[자료구조] 2장. LinkedList.md",
+    "data structure/[자료구조] Circular Linked LIst.md",
     "oop/객체지향의사실과오해/[객사오] 1장. 협력하는 객체들의 세계.md",
     "README.md"
   ]
