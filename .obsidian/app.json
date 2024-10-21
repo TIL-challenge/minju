@@ -3,5 +3,9 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./images",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheck": false
 }

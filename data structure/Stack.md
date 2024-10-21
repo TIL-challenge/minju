@@ -4,7 +4,7 @@
 가장 먼저 들어간 데이터는 가장 나중에 나온다. `FILO`  
 이때 가장 끝에 있는 데이터를 Top이라고 부르며, Top을 이용해서 연산을 수행하게 된다.
 
-![](images/Pasted%20image%2020241004172657.png)
+![](../_assets/images/data-structure/stack/img-stack.png)
 
 ## 스택 ADT의 연산
 
@@ -13,14 +13,15 @@
 - 삽입(Push)
   십입은 스택 위에 새로운 노드를 쌓는것이다.
   삽입을 할때에는 Top을 기준으로 Top위에 쌓는 것이며 새롭게 쌓인 데이터가 Top이 된다.
+  ![](../_assets/images/data-structure/stack/img-stack%202.png)
 
-  ![](images/Pasted%20image%2020241004172114.png)
+  
 
 - 제거(Pop)
   제거는 스택의 최상위 노드를 걷어내는 것이다.
   Top이 가리키는 데이터를 걷어내고, 해당 데이터를 반환한다.
   해당 데이터 바로 이전에 들어온 데이터가 Top이 된다.
-  ![](images/Pasted%20image%2020241004172434.png)
+  ![](../_assets/images/data-structure/stack/img-stack%201.png)
 
 ## Stack 구현
 
