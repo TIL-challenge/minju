@@ -6,22 +6,8 @@
       {
         "id": "6a92039fa798b4f5",
         "type": "tabs",
-        "dimension": 46.15384615384615,
+        "dimension": 51.43198090692124,
         "children": [
-          {
-            "id": "51ac35dfd6dc673a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "oop/Object/2장. 객체지향 프로그래밍.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2장. 객체지향 프로그래밍"
-            }
-          },
           {
             "id": "b784cd69f62f1b7a",
             "type": "leaf",
@@ -33,16 +19,31 @@
               "icon": "file-code",
               "title": "snippet.css"
             }
+          },
+          {
+            "id": "989c139d50b67855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oop/Object/2장. 객체지향 프로그래밍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2장. 객체지향 프로그래밍"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "0c016b4392db7d0d",
+        "id": "5d45f4aac3d17d8f",
         "type": "tabs",
-        "dimension": 53.84615384615385,
+        "dimension": 48.56801909307876,
         "children": [
           {
-            "id": "99608508e5c8acc9",
+            "id": "df9d3715aa5ad6d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +78,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -111,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e1d6644f881c4a4e",
@@ -210,12 +210,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -224,48 +224,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99608508e5c8acc9",
+  "active": "df9d3715aa5ad6d5",
   "lastOpenFiles": [
+    "data structure/Data Structure.md",
+    "data structure/Circular Linked List.md",
     "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장. 객체지향 프로그래밍 6.png",
-    "Excalidraw/Drawing 2024-10-06 00.05.21.excalidraw.md",
-    "oop/Object/2장. 객체지향 프로그래밍.md",
     "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장. 객체지향 프로그래밍 5.png",
     "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장. 객체지향 프로그래밍 4.png",
     "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장. 객체지향 프로그래밍 3.png",
-    "Excalidraw/Drawing 2024-10-05 23.09.16.excalidraw.md",
-    "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장. 객체지향 프로그래밍 2.png",
-    "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장. 객체지향 프로그래밍 1.png",
-    "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장. 객체지향 프로그래밍.png",
-    "_templates/test-template.md",
     "oop/객체지향의사실과오해/1장. 협력하는 객체들의 세계.md",
+    "oop/Object/2장. 객체지향 프로그래밍.md",
+    "oop/객체지향의사실과오해",
+    "oop/Object",
+    "oop",
+    "html/HTML.md",
+    "html",
+    "data structure/Stack.md",
+    "data structure/Queue.md",
+    "data structure/Double Linked List.md",
+    "data structure/Linked List.md",
+    "data structure",
+    "_posts/spring/Spring - File Upload & Download.md",
+    "_posts/oop/Object/2장. 객체지향 프로그래밍.md",
+    "_posts/spring",
+    "_posts/oop/객체지향의사실과오해/1장. 협력하는 객체들의 세계.md",
+    "_templates/test-template.md",
+    "_posts/data structure/Data Structure.md",
+    "_posts/data structure/Circular Linked List.md",
+    "_posts",
     "Hello.md",
     "무제 파일.md",
     "_templates",
-    "data structure/Circular Linked List.md",
-    "html/HTML.md",
-    "data structure/Stack.md",
-    "html",
+    "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장. 객체지향 프로그래밍.png",
+    "_posts/html/HTML.md",
+    "_posts/data structure/Stack.md",
+    "_posts/html",
     "_assets/images/data-structure/linked-list/img-linked-list 1.png",
     "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장.-객체지향-프로그래밍 5.png",
     "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장.-객체지향-프로그래밍 4.png",
     "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장.-객체지향-프로그래밍 3.png",
+    "_assets/images/Object/2장. 객체지향 프로그래밍/img-2장.-객체지향-프로그래밍 2.png",
     "_assets/images/Object/2장. 객체지향 프로그래밍",
-    "_assets/images/Object/2장. 객체지향 프로그래밍밍",
-    "data structure/Linked List.md",
-    "data structure/Double Linked List.md",
-    "data structure/Data Structure.md",
-    "_assets/images/data-structure/Linked List",
-    "_assets/images/data-structure/linked-list",
-    "_assets/images/data-structure/linked-list",
-    "data structure/Queue.md",
-    "_assets/images/data-structure/linkedlist",
-    "_assets/images/data-structure/queue",
-    "_assets/images/data-structure/stack",
+    "_posts/data structure/Linked List.md",
+    "_posts/data structure/Double Linked List.md",
+    "_posts/data structure/Queue.md",
     "testddddddd.md",
     "README.md",
-    "data structure/[자료구조] Queue.md",
-    "Excalidraw/Drawing 2024-10-04 17.02.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-02 17.43.30.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-02 17.44.00.excalidraw.md"
+    "data structure/[자료구조] Queue.md"
   ]
 }
