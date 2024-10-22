@@ -28,7 +28,7 @@
               "state": {
                 "file": "oop/Object/2장. 객체지향 프로그래밍.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2장. 객체지향 프로그래밍"
@@ -224,7 +224,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df9d3715aa5ad6d5",
+  "active": "989c139d50b67855",
   "lastOpenFiles": [
     "data structure/Data Structure.md",
     "data structure/Circular Linked List.md",

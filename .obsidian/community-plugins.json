@@ -11,5 +11,6 @@
   "editing-toolbar",
   "file-explorer-note-count",
   "css-editor",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-plugin-prettier"
 ]
