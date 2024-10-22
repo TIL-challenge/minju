@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "accentColor": "#7c9051",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
@@ -8,5 +8,6 @@
   "baseFontSize": 16,
   "interfaceFontFamily": "RIDIBatang",
   "textFontFamily": "RIDIBatang",
-  "monospaceFontFamily": "D2Coding"
+  "monospaceFontFamily": "D2Coding",
+  "cssTheme": "Blue Topaz"
 }

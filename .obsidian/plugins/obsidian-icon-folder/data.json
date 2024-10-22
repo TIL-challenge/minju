@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAArrowUp"
+      "🖼",
+      "🆎",
+      "📋",
+      "🎨",
+      "📚"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +32,10 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "_posts": "📚",
+  "_excalidraws": "🎨",
+  "_assets": "📋",
+  "_assets/fonts": "🆎",
+  "_assets/images": "🖼"
 }

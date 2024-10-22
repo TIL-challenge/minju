@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "_excalidraws",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -83,7 +83,7 @@
   "fadeOutExcalidrawMarkup": false,
   "loadPropertySuggestions": true,
   "experimentalEnableFourthFont": true,
-  "experimantalFourthFont": "나눔손글씨 성실체.ttf",
+  "experimantalFourthFont": "_assets/fonts/나눔손글씨 성실체.ttf",
   "addDummyTextElement": false,
   "zoteroCompatibility": false,
   "fieldSuggester": true,
