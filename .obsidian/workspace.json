@@ -1,92 +1,42 @@
 {
   "main": {
-    "id": "e8bc0b7f71edcaf2",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "6a92039fa798b4f5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b784cd69f62f1b7a",
-            "type": "leaf",
-            "state": {
-              "type": "css-editor-view",
-              "state": {
-                "filename": "snippet.css"
-              },
-              "icon": "file-code",
-              "title": "snippet.css"
-            }
-          },
-          {
-            "id": "989c139d50b67855",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/data structure/Stack.md",
+                "file": "_posts/oop/객체지향의사실과오해/객체지향의사실과오해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack"
+              "title": "객체지향의사실과오해"
             }
           },
           {
-            "id": "b863ff8f7e39638f",
+            "id": "df1cbc51d69c92b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/oop/Object/5장-책임 할당하기.md",
+                "file": "_todo/2024/11/2024-11-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5장-책임 할당하기"
-            }
-          },
-          {
-            "id": "c9888ef68c03d5ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/oop/Object/5장-책임 할당하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5장-책임 할당하기"
-            }
-          },
-          {
-            "id": "bbe61d01118717e7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "_excalidraws/queue.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "queue"
-            }
-          },
-          {
-            "id": "179b4cd8bded468b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_assets/images/Object/2장-객체지향 프로그래밍/img-2장.-객체지향-프로그래밍 2.png"
-              },
-              "icon": "lucide-image",
-              "title": "img-2장.-객체지향-프로그래밍 2"
+              "title": "2024-11-04"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -153,12 +103,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e5f19a40114cce5",
+            "id": "e24cbc21bb2e7ffb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "8593eab729469650",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3816c694b436f62b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oop/Object/2장. 객체지향 프로그래밍.md",
+                "file": "_todo/server/Jsp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,25 +138,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2장. 객체지향 프로그래밍의 백링크"
+              "title": "Jsp의 백링크"
             }
           },
           {
-            "id": "85ccde1442fd0de6",
+            "id": "57574892622a3285",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oop/Object/2장. 객체지향 프로그래밍.md",
+                "file": "_todo/server/Jsp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2장. 객체지향 프로그래밍의 나가는 링크"
+              "title": "Jsp의 나가는 링크"
             }
           },
           {
-            "id": "ef445f22c746c96f",
+            "id": "30abfd6016ce5aa3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -199,39 +169,18 @@
             }
           },
           {
-            "id": "0657a8ffe2f27bd9",
+            "id": "3c8e120c21548293",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "oop/Object/2장. 객체지향 프로그래밍.md"
+                "file": "_todo/server/Jsp.md"
               },
               "icon": "lucide-list",
-              "title": "2장. 객체지향 프로그래밍 개요"
-            }
-          },
-          {
-            "id": "e24cbc21bb2e7ffb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "807b09537628da88",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "title": "Jsp 개요"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,67 +188,70 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-vscode:VSCode": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c9888ef68c03d5ae",
+  "active": "e24cbc21bb2e7ffb",
   "lastOpenFiles": [
-    "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 9.png",
-    "_excalidraws/Drawing 2024-10-31 15.14.01.excalidraw.md",
+    "_todo/2024/11/2024-45w.md",
+    "_todo/2024/11/2024-11-04.md",
+    "2024-W45.md",
+    "무제 파일.canvas",
     "_posts/oop/Object/5장-책임 할당하기.md",
+    "_todo/server/server.md",
+    "_excalidraws/Roadmap.md",
+    "_excalidraws/images",
+    "_posts/oop/객체지향의사실과오해/객체지향의사실과오해.md",
+    "_posts/oop/Object/Object.md",
+    "_posts/data structure/data structure.md",
+    "_posts/data structure/Double Linked List.md",
+    "_posts/data structure/Data Structure.md",
+    "_posts/data structure/Circular Linked List.md",
+    "_posts/data structure/Linked List.md",
+    "_posts/data structure/Stack.md",
+    "_posts/oop/객체지향의사실과오해/1장-협력하는 객체들의 세계.md",
+    "_posts/oop/Object/2장-객체지향 프로그래밍.md",
+    "_posts/data structure/Queue.md",
+    "_excalidraws/Object.md",
+    "_templates/Welcome to my vault.md",
+    "_templates/카테고리-제목.md",
+    "_todo/2024/11",
+    "_todo/2024",
+    "2024-11-04.md",
+    "2024/11/2024-11-04.md",
+    "2024/11",
+    "2024",
+    "_todo/server/Jsp.md",
+    "_todo/server/Servlet.md",
+    "_todo/server/Spring.md",
+    "_todo/server/SpringBoot.md",
+    "_todo/server",
+    "_todo/web",
+    "_todo/language",
+    "_todo",
+    "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 9.png",
     "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 8.png",
     "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 7.png",
     "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 6.png",
     "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 5.png",
-    "_excalidraws/Drawing 2024-10-22 17.26.34.excalidraw.md",
     "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 4.png",
     "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 3.png",
     "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 2.png",
     "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기 1.png",
     "_assets/images/Object/5장-책임 할당하기/img-5장-책임 할당하기.png",
-    "_assets/images/Object/5장-책임 할당하기",
-    "_posts/data structure/Stack.md",
-    "_posts/data structure/Queue.md",
-    "_posts/data structure/Linked List.md",
-    "_posts/data structure/Double Linked List.md",
-    "_assets/images/data structure/Stack/img-Stack.png",
-    "_posts/oop/Object/2장-객체지향 프로그래밍.md",
-    "_posts/data structure/Data Structure.md",
-    "_posts/data structure/Circular Linked List.md",
-    "_posts/oop/객체지향의사실과오해/1장-협력하는 객체들의 세계.md",
-    "_posts/staccc.md",
-    "_assets/images/data structure/Stack",
-    "_excalidraws/stack.md",
-    "_assets/images/data structure/Double Linked List",
-    "_assets/images/data structure",
-    "2024-10-22.md",
-    "_templates/카테고리-제목.md",
-    "_posts/Untitled.md",
-    "_excalidraws/queue.md",
-    "_excalidraws",
-    "_assets/fonts/RIDIBatang.otf",
-    "_assets/fonts",
-    "_assets/fonts/D2Coding-Ver1.3.2-20180524-all.ttc",
-    "oop/객체지향의사실과오해",
-    "oop",
-    "html/HTML.md",
-    "_posts/spring/Spring - File Upload & Download.md",
-    "_posts/oop/Object/2장. 객체지향 프로그래밍.md",
-    "_posts/oop/객체지향의사실과오해/1장. 협력하는 객체들의 세계.md",
-    "Hello.md",
-    "무제 파일.md",
-    "_posts/html/HTML.md",
-    "testddddddd.md"
+    "_assets/images/Object/5장-책임 할당하기"
   ]
 }

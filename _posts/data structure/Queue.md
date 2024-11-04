@@ -20,7 +20,8 @@ Front에서 제거가 이루어진다. 제거한 요소의 다음 요소가 새�
 ![](../_assets/images/data-structure/queue/img-queue%202.png)
 
 ## 구현
-``` java
+
+```java
 public class ArrayQueue {
     private int front, rear, size;
     private int capacity;
