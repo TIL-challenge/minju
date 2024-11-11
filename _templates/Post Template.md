@@ -2,8 +2,6 @@
 title: <% tp.file.title %>
 date: <% tp.date.now("YYYY-MM-DD") %>
 author: minjumost
-category:
-  - test
+category: []
 tags:
-  - tes
 ---

@@ -12,12 +12,13 @@
   "file-explorer-note-count",
   "css-editor",
   "templater-obsidian",
-  "obsidian-plugin-prettier",
   "obsidian-tasks-plugin",
   "calendar",
   "obsidian-mind-map",
   "homepage",
   "dataview",
   "folder-note-plugin",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-day-planner",
+  "obsidian-kanban"
 ]
