@@ -20,5 +20,6 @@
   "folder-note-plugin",
   "periodic-notes",
   "obsidian-day-planner",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-plugin-prettier"
 ]
